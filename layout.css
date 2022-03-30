@@ -12,14 +12,14 @@
     justify-content: center;
     flex-direction: column;
     font-family: 'Oswald', sans-serif;
-    background-color: blue;
+    background-color: green;
   }
    
   .container {
     padding: 1rem 1.5rem;
-    border: 1px solid black;
+    border: 1px solid red;
     width: 350px;
-    background-color:  orange;
+    background-color:  yellow;
   }
    
   h2 {
@@ -39,7 +39,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid black;
+    border: 1px solid red;
     padding: 0 5px;
   }
    
@@ -68,8 +68,8 @@
     width: 100%;
     border-radius: 10px;
     border: none;
-    background-color: #0b132b;
-    color: #ffffff;
+    background-color: red;
+    color: black;
     font-size: 15px;
     font-weight: bold;
     cursor: pointer;
@@ -78,6 +78,6 @@
    
   #generate:hover {
     background-color: #5bc0be;
-    color: #ffffff;
+    color: green;
   }
   
